@@ -1,0 +1,24 @@
+Script started on Fri Aug  3 12:19:52 2018
+[?1034hbash-3.2$ python PyPoll[K[K[K[K[K[Kmain.py
+/Users/daryarudych/Desktop/repos/python-challenge/PyPoll/election_data.csv
+['Voter ID', 'County', 'Candidate']
+Total votes cast: 3521001
+Li has won: 492940 votes
+Candidate Khan has won 2218231 votes
+Candidate O'Tooley has won 105630 votes
+Candidate Correy has won 704200 votes
+Candidate Li has won 492940 votes
+Election Results
+------------------------------
+Total votes cast: 3521001
+------------------------------
+Candidate Khan has won 63% of votes (2218231)
+Candidate O'Tooley has won 3% of votes (105630)
+Candidate Correy has won 20% of votes (704200)
+Candidate Li has won 14% of votes (492940)
+------------------------------
+Candidate Khan won
+bash-3.2$ exit 
+exit
+
+Script done on Fri Aug  3 12:20:19 2018
